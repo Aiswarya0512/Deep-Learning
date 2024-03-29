@@ -1,5 +1,5 @@
 # Deep-Learning
-## Drowsiness and Mobile Detection while driving a Car
+## Drowsiness and Mobile Phone Detection while driving a Car
 
 I am thrilled to share our latest project in the realm of Deep Learning: "Drowsiness and Mobile Detection." 
 Leveraging the cutting-edge technologies of OpenCV,Dlib and YOLO v3, we have developed a sophisticated system aimed at enhancing safety and reducing accidents, particularly in driving scenarios.
